@@ -1,6 +1,8 @@
 # Naming and Shaming of Rebel Groups by the United Nations Security Council  
 Nadine O'Shea
 
+**Note:** This is an illustrative example of a reproducible research workflow. It includes only a subset of the full research project and focuses on two example rebel groups. The original project covers all rebel groups active since 1989 but is not shared in full here.
+
 Goal: Estimating the impact of naming and shaming rebel groups on rebel violence against civilians.
 
 ---
@@ -49,14 +51,17 @@ The current version of this repository focuses on two example rebel groups, sele
      - Part of an armed conflict
      - Named and shamed by the UNSC
   5. Saves the final merged dataset used in analysis.
- 
   6. Note: The analysis was conducted using Stata version 15.
-
 
 ---
 
 ## Reproducibility
 
+To reproduce the full analysis:
+
+1. Clone this repository or download the contents  
+2. Open a terminal in the project directory  
+3. Run the following command:
 
 ```bash
 ./run.sh
