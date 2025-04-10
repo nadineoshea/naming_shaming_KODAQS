@@ -49,6 +49,9 @@ The current version of this repository focuses on two example rebel groups, sele
      - Part of an armed conflict
      - Named and shamed by the UNSC
   5. Saves the final merged dataset used in analysis.
+ 
+  6. Note: The analysis was conducted using Stata version 15.
+
 
 ---
 
