@@ -1,7 +1,7 @@
 # Naming and Shaming of Rebel Groups by the United Nations Security Council  
 Nadine O'Shea
 
-**Note:** This is an illustrative example of a reproducible research workflow. It includes only a subset of the full research project and focuses on two example rebel groups. The original project covers all rebel groups active since 1989 but is not shared in full here.
+**Note:** This is an illustrative example of a reproducible research workflow. It includes only a subset of the full research project and contains raw material on two example rebel groups. The original project covers all rebel groups active since 1989 but is not shared in full here.
 
 Goal: Estimating the impact of naming and shaming rebel groups on rebel violence against civilians.
 
